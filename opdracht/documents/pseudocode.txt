@@ -1,0 +1,16 @@
+Ik moet 2 pagina's maken:
+
+- Home
+- Productpagina
+
+Home index.php:
+
+- Werkende menu die via include is geplaatst
+- Werkende footer die via include is geplaatst
+- Ik moet de datatype kunnen opvragen van een ingevoerde waarde. (zo even kijken wat dit betekend)
+
+Product.php:
+
+- Een array met (10 producten + prijzen + decimalen.)
+- Bij invoer van (artikelnummer * het aantal) = totaal prijs van de producten.
+- Leeftijd van klant bepaald de korting.
