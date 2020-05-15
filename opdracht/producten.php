@@ -4,6 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <?php include 'includes/menu.php';?>
     <title>Title</title>
   </head>
     <form action="producten.php" method="get"><!-- dit laten staan! -->
@@ -23,6 +24,51 @@
             <tr>
                 <td>1</td>
                 <td>peren</td>
+                <td>0,30</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Aardbei</td>
+                <td>0,10</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Mango</td>
+                <td>0,40</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Meloen</td>
+                <td>1,20</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Aardappel</td>
+                <td>0,15</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Banaan</td>
+                <td>0,30</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Wortel</td>
+                <td>0,20</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Prei</td>
+                <td>0,10</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Ui</td>
+                <td>0,50</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Bosui</td>
                 <td>0,30</td>
             </tr>
         </table>

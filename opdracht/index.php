@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Title</title>
   </head>
+  <header><?php include 'includes/menu.php';?></header>
     <form action="index.php" method="get"><!-- dit laten staan! -->
 
     <p>Op deze website kun je checken welk datatype je hebt ingevoerd.</p>
