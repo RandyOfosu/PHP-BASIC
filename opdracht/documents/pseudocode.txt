@@ -14,3 +14,7 @@ Product.php:
 - Een array met (10 producten + prijzen + decimalen.)
 - Bij invoer van (artikelnummer * het aantal) = totaal prijs van de producten.
 - Leeftijd van klant bepaald de korting.
+
+Moet 2 nieuwe functies schrijven:
+- korting
+- Totaal prijs
